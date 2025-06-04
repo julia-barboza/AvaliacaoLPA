@@ -27,6 +27,8 @@ public class Atividade4 {
 		numero9 = ler.nextDouble();
 		System.out.println("Informe o número 10: ");
 		numero10 = ler.nextDouble();
+
+		// Não soube outra forma de fazer
 		
 		soma = numero1 + numero2 + numero3 + numero4 + numero5 + numero6 + numero7 + numero8 + numero9 + numero10;
 		System.out.println("A soma é: " + soma);
