@@ -35,6 +35,10 @@ public class Atividade3 {
 			break;
 		case 7:
 			System.out.println("Sábado");
+		        break;
+		default:
+		System.out.println("Número inválido. Digite de 1 a 7.");
+				
 		}
 		ler.close();
 
